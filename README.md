@@ -12,7 +12,7 @@ Language Uses: HTML, CSS
 
 ## Check Out The Website 👇
 
-Visit The Website🌐 [Gym Fitness Landing Page](https://shayanshahdeveloper.github.io/Project-8-Gym-Landing-Page/)
+Visit The Website🌐 [Gym Fitness Landing Page](https://shayanshahdeveloper.github.io/Project-9-Gym-Landing-Page/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
